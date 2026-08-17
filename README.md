@@ -4,7 +4,7 @@ Repository: `mysql-layoffs-eda`
 
 ## Project Overview
 
-This project explores a cleaned dataset of global company layoffs using MySQL. The goal wasn't to answer one specific business question, but to look at the data from a few different angles — overall scale, how layoffs changed over time, which industries and companies were affected most, and how monthly totals accumulate — before any deeper or more targeted analysis is attempted. Exploratory analysis like this is usually the first step in working with a new dataset: it surfaces the shape of the data, what's worth digging into further, and what limitations exist before drawing conclusions.
+This project explores a cleaned dataset of global company layoffs using MySQL. The goal wasn't to answer one specific business question, but to look at the data from a few different angles — overall scale, how layoffs changed over time, which industries and companies were affected most, and how monthly totals accumulate — before any deeper or more targeted analysis is attempted. Exploratory analysis like this is usually the first step in working with a new dataset: it surfaces the shape of the data, what's worth digging into further, and what limitations exist before concluding.
 
 The dataset used here is the already-cleaned output of a separate data-cleaning project (`layoffs_staging_2`) — duplicates, inconsistent labels, and formatting issues were handled prior to this analysis, not as part of it.
 
